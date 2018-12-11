@@ -1,10 +1,14 @@
 /*====================================================*/
 body {
   font-family: 'Montserrat', sans-serif;
+ /* background-image: url("image/bgimg.jpg");*/
 }
+ 
+
 
 .header {
-  background: #232323;
+    
+  /*background: #232323;*/
   text-align: center;
   position: relative;
   z-index: 1;
